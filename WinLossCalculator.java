@@ -48,6 +48,8 @@ public class WinLossCalculator {
             // Display the results
             System.out.println("Number of Wins: " + wins);
             System.out.println("Number of Losses: " + losses);
+            System.out.println("kemem");
+            System.out.println("mang eak");
         }
 
         // Close the Scanner to release resources
