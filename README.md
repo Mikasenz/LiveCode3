@@ -1,5 +1,6 @@
-
+# https://github.com/Mikasenz
 # Praktikum3
+
 Calculator Winrate Menghitung Jumlah Menang dan Kalah
 Program Kalkulator Winrate Menghitung  Kemenangan-Kekalahan. Program ini bertujuan untuk menghitung jumlah kemenangan dan kekalahan berdasarkan jumlah total pertandingan dan tingkat kemenangan saat ini. Program ini meminta input dari pengguna untuk jumlah total pertandingan dan tingkat kemenangan, lalu menghitung dan menampilkan jumlah kemenangan dan kekalahan.
 
