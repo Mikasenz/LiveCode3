@@ -14,7 +14,7 @@ import java.util.Scanner;
  * The class provides a command-line interface for the user to input the required data and
  * handles scenarios where the input win rate is outside the valid range of 0 to 100.
  * 
- * @author Your Name
+ * @author Riyo TA
  * @version 1.0
  */
 public class WinLossCalculator {
@@ -48,8 +48,6 @@ public class WinLossCalculator {
             // Display the results
             System.out.println("Number of Wins: " + wins);
             System.out.println("Number of Losses: " + losses);
-            System.out.println("kemem");
-            System.out.println("mang eak");
         }
 
         // Close the Scanner to release resources
